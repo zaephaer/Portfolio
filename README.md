@@ -2,8 +2,8 @@
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. 
 
 Python Machine Learning
-Linear Regression analysis and prediction of concrete compressive strength from 8 different correlated (positive and negative) variables.
-Build a Linear Regression model from 4 correlated variables to predict Brain Weight (grams).
+- Linear Regression analysis and prediction of concrete compressive strength from 8 different correlated (positive and negative) variables. /b
+- Build a Linear Regression model from 4 correlated variables to predict Brain Weight (grams).
 Build a Linear Regression model from 2 variables, predict Salary from Years of Experience
 Linear Regression and Correlation analysis of several oil product, where highly correlated oil product can be used to predict oil price (Soya Bean Oil vs Rape Seed Oil, Crude Palm Oil vs Soya Bean Oil and others (data from MPOB)
 Linear Regression and analysis of over 1,000 cars models and engine size predicting CO2 Emission based on highly correlated variables
